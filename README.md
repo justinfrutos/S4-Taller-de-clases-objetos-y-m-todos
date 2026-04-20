@@ -1,5 +1,7 @@
 # Ejercicios Java — Capítulo 3 (clases y objetos)
 
+**S4:** Taller de clases, objetos y métodos.
+
 Proyecto académico con las clases **Factura**, **Empleado**, **Fecha**, **FrecuenciasCardiacas** y **PerfilMedico**, más sus aplicaciones de prueba. Incluye principios de código limpio (nombres claros, responsabilidades acotadas y utilidades compartidas para cálculos de frecuencia cardiaca).
 
 ## Requisitos
